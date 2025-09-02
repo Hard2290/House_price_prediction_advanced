@@ -3,11 +3,11 @@
 - This is a Regression ML problem.
 - The dataset contains 80 features of 1460 houses along with the prices at which these houses were sold mentioned under "SalePrice", which is our target feature. 
 
-## Rank on Kaggle Public Leaderboard - 1399 out of 4122
+## Rank on Kaggle Public Leaderboard - 295 out of 4132
 
-![Image](https://github.com/user-attachments/assets/ee89811b-7673-42c5-b662-ab9f795c1945)
+![Image](https://github.com/user-attachments/assets/ec02967d-486a-4d99-ace9-54d26814485b)
 
-## Lowest RMSE achieved on Kaggle Leaderboard - 0.13335
+## Lowest RMSE achieved on Kaggle Leaderboard - 0.12045
 
 
 ## Problem Statement :
@@ -58,4 +58,4 @@
 
 ## Final Submission:
 - Best Hyperparameters obtained using "Optuna" used to generate final predictions using "XGBoost Regressor".
-- Lowest RMSE of 0.13335 has been achieved on Kaggle's Public Leaderboard leading to rank of 1399 out of 4122 submissions.
+- Lowest RMSE of 0.12045 has been achieved on Kaggle's Public Leaderboard leading to rank of 295 out of 4132 submissions.
